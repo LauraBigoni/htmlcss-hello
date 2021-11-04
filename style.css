@@ -9,10 +9,9 @@ body {
     background-size: cover;
 }
 
-#box {
+#container {
     text-align: center;
     background-color: rgb(255, 255, 255);
-    opacity: 50%;
     height: 800px;
     width: 1200px;
     border-radius: 2%;
@@ -22,5 +21,4 @@ body {
 #logo {
     margin: auto;
     margin-top:50px;
-    opacity: 100%;
 }
