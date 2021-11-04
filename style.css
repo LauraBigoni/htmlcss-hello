@@ -22,3 +22,16 @@ body {
     margin: auto;
     margin-top:50px;
 }
+
+#descrizione {
+    color: green;
+    margin: 20px;
+}
+
+p {
+    margin: 50px;
+}
+
+#terra {
+    border-radius: 10%;
+}
