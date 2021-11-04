@@ -1,0 +1,26 @@
+
+* {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+#box {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    opacity: 50%;
+    height: 800px;
+    width: 1200px;
+    border-radius: 2%;
+    margin: auto;
+    margin-top:50px;
+}
+#logo {
+    margin: auto;
+    margin-top:50px;
+    opacity: 100%;
+}
